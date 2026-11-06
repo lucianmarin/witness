@@ -1,7 +1,10 @@
-# witness
-Self-hosted, distributed social network written in PHP 5.2
+# Witness
 
-### setup
+![screenshot](screenshot.jpg)
+
+Self-hosted, distributed social network written in PHP 5.2 or greater.
+
+### Setup
 
 1. create `data` directory
 2. create `mentions.json`, `posts.json`, `witnesses.json` files under `data`
@@ -11,12 +14,12 @@ Self-hosted, distributed social network written in PHP 5.2
 6. `static/icon.png` must be 192x192 pixels, acts as avatar and site icon
 7. use a subdomain for Witness, this way www and non-www is avoided
 
-### demo
+### Demo
 
 - http://w.lucianmarin.com/
 - http://demo.lucianmarin.com/
 
-### resources
+### Resources
 
 - https://sublevel.net/
 - https://dribbble.com/shots/3362402-Witness
